@@ -12,8 +12,9 @@ public class IfElseDemo {
 		if (OfferedSalary<CurrentSalary)
 		{
 			System.out.println("No");			
-	}
-		else{
+		}
+		else
+		{
 				System.out.println("yes");
 			}
 		
